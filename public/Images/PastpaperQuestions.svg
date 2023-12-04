@@ -1,0 +1,12 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Past paper Questions">
+<path id="Vector" d="M40.625 29.6875V24.2187C40.625 20.3355 37.477 17.1875 33.5937 17.1875H30.4687C29.1743 17.1875 28.125 16.1382 28.125 14.8437V11.7187C28.125 7.8355 24.977 4.6875 21.0937 4.6875H17.1875M21.875 4.6875H11.7187C10.4243 4.6875 9.375 5.73683 9.375 7.03125V42.9687C9.375 44.2632 10.4243 45.3125 11.7187 45.3125H38.2812C39.5757 45.3125 40.625 44.2632 40.625 42.9687V23.4375C40.625 13.0822 32.2303 4.6875 21.875 4.6875Z" stroke="#1D1B19" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M17.1875 31.25H32.8125M17.1875 37.5H25" stroke="url(#paint0_linear_13154_42045)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_13154_42045" x1="25" y1="31.25" x2="25" y2="37.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF7542"/>
+<stop offset="0.505208" stop-color="#FE4501"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.group:hover {
+  color: var(--theme-PiBlack);
+  border-bottom: 2px solid var(--PiButton);
+  font-weight: 600;
+}
+.group {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  color: var(--theme-PiGrey);
+  font-family: "Poppins";
+}
+
+body {
+  font-family: "Poppins";
+}
+.submenu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-weight: 400;
+  font-size: 18px;
+}
